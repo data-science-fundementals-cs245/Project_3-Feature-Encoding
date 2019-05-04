@@ -28,7 +28,7 @@ Feature encoding is to: Encode **each bag of local features** into **a feature v
 | k | 4 | 8 | 16 | 32 | 64 | 128 | 256 | 512 |
 |-|-|-|-|-|-|-|-|-|
 | SIFT+BOW | * | * | * | * | ... | ... | ... | ... |
-| SIFT+VLAD | - | - | ... | ... | ... | - | - | / | / |
+| SIFT+VLAD | - | - | ... | ... | ... | - | / | / |
 | SIFT+Fisher Vector | - | - | * | * | * | - | / | / |
 | DL+BOW | - | - | * | ... | - | - | - | - |
 | DL+VLAD | - | - | * | ... | - | - | / | / |
