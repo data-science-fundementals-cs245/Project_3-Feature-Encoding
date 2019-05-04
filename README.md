@@ -1,4 +1,4 @@
-# Project_3-Feature-Encoding
+Project_3-Feature-Encoding
 
 #### Just for notice (In case you have forgot what is feature encoding)
 
@@ -40,3 +40,32 @@ Feature encoding is to: Encode **each bag of local features** into **a feature v
 - 陈鸿滨：DL+BOW/VLAD:16..64(VLAD128有时间再做)
 - 王皓轩：DL+BOW/VLAD：4，8
 - 剩余：DL+Fisher Vector：4..64(128有时间再做)，DL+BOW:128..512
+
+
+
+
+
+### Dongyue's Results
+
+|  K   | Fisher | VLAD |
+| :--: | :----: | :--: |
+|  4   |        |      |
+|  8   |        |      |
+|  16  | 27.33  |      |
+|  17  | 27.73  |      |
+|  18  | 26.93  |      |
+|  19  | 27.40  |      |
+|  20  | 27.26  |      |
+|  21  | 25.18  |      |
+|  22  | 26.05  |      |
+|  23  | 27.73  |      |
+|  24  | 26.99  |      |
+|  25  | 25.85  |      |
+| ...  |        |      |
+|  32  |        |      |
+|  64  |        |      |
+|      |        |      |
+|      |        |      |
+|      |        |      |
+|      |        |      |
+
