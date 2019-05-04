@@ -30,8 +30,8 @@ Feature encoding is to: Encode **each bag of local features** into **a feature v
 | SIFT+BOW | * | * | * | * | ... | ... | ... | ... |
 | SIFT+VLAD | - | - | ... | ... | ... | - | / | / |
 | SIFT+Fisher Vector | - | - | * | * | * | - | / | / |
-| DL+BOW | - | - | * | ... | - | - | - | - |
-| DL+VLAD | - | - | * | ... | - | - | / | / |
+| DL+BOW | - | - |37.76 | 48.49 | 58.69 | 65.55 | - | - |
+| DL+VLAD | - | - | 81.17 | 78.03 | 74.75 | 68.09 | / | / |
 | DL+Fisher Vector | - | - | - | - | - | - | / | / |
 
 ### 实验分配
