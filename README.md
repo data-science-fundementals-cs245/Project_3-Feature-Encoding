@@ -64,8 +64,8 @@ Feature encoding is to: Encode **each bag of local features** into **a feature v
 | ...  |        |       |
 |  32  | 27.13  | 26.19 |
 |  64  | 23.30  | 28.27 |
-|      |        |       |
-|      |        |       |
+| 128  |        | 29.14 |
+| 256  |        |       |
 |      |        |       |
 |      |        |       |
 
