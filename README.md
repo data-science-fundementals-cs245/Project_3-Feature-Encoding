@@ -49,8 +49,8 @@ Feature encoding is to: Encode **each bag of local features** into **a feature v
 
 |  K   | Fisher | VLAD  |
 | :--: | :----: | :---: |
-|  4   |        | 23.03 |
-|  8   |        | 24.31 |
+|  4   | 26.99  | 23.03 |
+|  8   | 26.32  | 24.31 |
 |  16  | 27.33  | 26.72 |
 |  17  | 27.73  |       |
 |  18  | 26.93  |       |
@@ -62,8 +62,8 @@ Feature encoding is to: Encode **each bag of local features** into **a feature v
 |  24  | 26.99  |       |
 |  25  | 25.85  |       |
 | ...  |        |       |
-|  32  |        | 26.19 |
-|  64  |        |       |
+|  32  | 27.13  | 26.19 |
+|  64  | 23.30  | 28.27 |
 |      |        |       |
 |      |        |       |
 |      |        |       |
