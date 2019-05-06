@@ -32,7 +32,7 @@ Feature encoding is to: Encode **each bag of local features** into **a feature v
 | SIFT+Fisher Vector | 26.99 | 26.32 | 27.33 | 27.13 | 23.30 | 22.03 | 17.60 | / |
 | DL+BOW | 11.47 | 23.90 |37.76 | 48.49 | 58.69 | 65.55 | 72.25 | / |
 | DL+VLAD | 74.59 | 75.29 | 81.17 | 78.03 | 74.75 | 68.09 | 57.28 | / |
-| DL+Fisher Vector | 62.86 | - | - | - | - | - | / | / |
+| DL+Fisher Vector | 62.86 | - | 11.19 | - | - | - | / | / |
 
 ### 实验分配
 - 李杰宇：SIFT+BOW:4..512
